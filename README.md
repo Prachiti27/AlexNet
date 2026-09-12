@@ -21,7 +21,7 @@ AlexNet consists of 8 learned layers:
 
 The architecture used in the paper is shown below:
 
-![AlexNet Architecture](architecture.png)
+<img src="architecture.png"/>
 
 Main components used:
 
